@@ -8,7 +8,6 @@
 
 ### About me:
 * 18 y.o.
-* Love cats 🐈 & 🐠
 * Played tennis for 8 years 🎾
-* Listening to metalcore music 🎸
+* Listening to metalcore and neoclassical music 🎹
 * Also love travels and photography 🌅
