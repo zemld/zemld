@@ -2,6 +2,11 @@
 
 ## About me
 - Software engeneer from Moscow
-- Yandex backend developer intern at ai automations
+- Yandex backend developer at ai automations
 - Student at Faculty of Computer Science at Higher School of Economics.
 - Ex Yandex backend developer intern at ecom scenaries; taxi
+
+## Projects
+
+- `scently.ru`
+- `fcsquiz.ru`
