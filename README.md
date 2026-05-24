@@ -8,5 +8,5 @@
 
 ## Projects
 
-- `scently.ru`
-- `fcsquiz.ru`
+- [scently.ru](scently.ru)
+- [fcsquiz.ru](fcsquiz.ru)
